@@ -1,0 +1,26 @@
+{
+  "name": "nextimagegen",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "file-saver": "^2.0.5",
+    "fs": "^0.0.1-security",
+    "next": "13.1.1",
+    "openai": "^3.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "request": "^2.88.2",
+    "streamsaver": "^2.0.6"
+  },
+  "devDependencies": {
+    "eslint": "8.30.0",
+    "eslint-config-next": "13.1.1"
+  }
+}
